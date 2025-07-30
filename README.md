@@ -2,7 +2,7 @@
 
 **Watch a full demonstration of the HandsMen Threads Salesforce CRM project here:**
 
-[**[https://drive.google.com/file/d/1Yicbq2IdWXtfmZGtpq8I63QBHg6-Axde/view?usp=sharing]**](**[https://drive.google.com/file/d/1Yicbq2IdWXtfmZGtpq8I63QBHg6-Axde/view?usp=sharing]**)
+[**https://drive.google.com/file/d/1Yicbq2IdWXtfmZGtpq8I63QBHg6-Axde/view?usp=sharing**](**https://drive.google.com/file/d/1Yicbq2IdWXtfmZGtpq8I63QBHg6-Axde/view?usp=sharing**)
 
 ---
 
